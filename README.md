@@ -2,4 +2,4 @@
 
 This is for learning GitHub Actions
 <br>
-Author - Ravish Shakya
+Author - Ravish Kumar Shakya
